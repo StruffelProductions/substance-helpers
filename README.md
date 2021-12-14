@@ -1,4 +1,4 @@
-# ambientCG substance tools
+# The substance helpers collection
 This repository contains useful new nodes for **Adobe Substance 3D Designer** which you can import and use in your own projects. Most of them are made by me while working on assets for [ambientCG](https://ambientCG.com).
 
 ## Installation
@@ -12,4 +12,5 @@ This repository contains useful new nodes for **Adobe Substance 3D Designer** wh
 ![](documentationfiles/installation-edit-preferences.png)
 
 4. Navigate to **PROJECTS** -> **Library** and then add the `/packages` subfolder to the list using the plus icon in the top right corner.
+
 ![](documentationfiles/installation-preferences-details.png)
