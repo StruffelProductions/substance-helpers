@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "899e72eea9f70fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ccaa5ecdfa2e3fb",
+        "type": "leaf",
+        "dimension": 46.63636363636364,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "38d04900a917ad56"
+      },
+      {
+        "id": "2771df744b6890ff",
+        "type": "leaf",
+        "dimension": 53.36363636363637,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "38d04900a917ad56"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7733cf9732a4a0cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5341bebae82cd9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d2427e6d48a596",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b1cfee16252da5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "896880f26ec37925",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea94c7d4d2b7a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea68474c9625cd1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7ccaa5ecdfa2e3fb",
+  "lastOpenFiles": [
+    "README.md",
+    "documentationfiles/installation-edit-preferences.png"
+  ]
+}

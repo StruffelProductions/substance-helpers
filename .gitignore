@@ -1,1 +1,4 @@
 .autosave/
+.obsidian/cache
+.trash/
+.DS_Store
